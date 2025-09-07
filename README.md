@@ -1,2 +1,3 @@
-# time_sheet_ccm
-Aplicao em streamlit para registro de horas de entrada e saida de funcionarios
+# Timesheet CCM – Streamlit Cloud + Google Sheets
+
+Implantação rápida: suba ao GitHub e conecte no Streamlit Cloud. Adicione secrets conforme exemplo em `.streamlit/secrets.toml.example`.
